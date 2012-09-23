@@ -17,37 +17,23 @@
 		B19561F6160EFC9A00E30E55 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B19561F5160EFC9A00E30E55 /* Default@2x.png */; };
 		B19561F8160EFC9A00E30E55 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B19561F7160EFC9A00E30E55 /* Default-568h@2x.png */; };
 		B19561FB160EFC9A00E30E55 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B19561F9160EFC9A00E30E55 /* MainStoryboard.storyboard */; };
-		B19561FE160EFC9A00E30E55 /* EzSampleFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B19561FD160EFC9A00E30E55 /* EzSampleFirstViewController.m */; };
-		B1956200160EFC9A00E30E55 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = B19561FF160EFC9A00E30E55 /* first.png */; };
-		B1956202160EFC9A00E30E55 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1956201160EFC9A00E30E55 /* first@2x.png */; };
-		B1956205160EFC9A00E30E55 /* EzSampleSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1956204160EFC9A00E30E55 /* EzSampleSecondViewController.m */; };
-		B1956207160EFC9A00E30E55 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = B1956206160EFC9A00E30E55 /* second.png */; };
-		B1956209160EFC9A00E30E55 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1956208160EFC9A00E30E55 /* second@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B19561DD160EFC9900E30E55 /* CannotPushButtonByIPhone5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CannotPushButtonByIPhone5.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B19561DD160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EzSample_iPhone5_CannotPushButtonByIPhone5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B19561E1160EFC9900E30E55 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B19561E3160EFC9900E30E55 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B19561E5160EFC9900E30E55 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		B19561E9160EFC9900E30E55 /* CannotPushButtonByIPhone5-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CannotPushButtonByIPhone5-Info.plist"; sourceTree = "<group>"; };
+		B19561E9160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EzSample_iPhone5_CannotPushButtonByIPhone5-Info.plist"; sourceTree = "<group>"; };
 		B19561EB160EFC9900E30E55 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B19561ED160EFC9900E30E55 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B19561EF160EFC9900E30E55 /* CannotPushButtonByIPhone5-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CannotPushButtonByIPhone5-Prefix.pch"; sourceTree = "<group>"; };
+		B19561EF160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EzSample_iPhone5_CannotPushButtonByIPhone5-Prefix.pch"; sourceTree = "<group>"; };
 		B19561F0160EFC9A00E30E55 /* EzSampleAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EzSampleAppDelegate.h; sourceTree = "<group>"; };
 		B19561F1160EFC9A00E30E55 /* EzSampleAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EzSampleAppDelegate.m; sourceTree = "<group>"; };
 		B19561F3160EFC9A00E30E55 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		B19561F5160EFC9A00E30E55 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		B19561F7160EFC9A00E30E55 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B19561FA160EFC9A00E30E55 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		B19561FC160EFC9A00E30E55 /* EzSampleFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EzSampleFirstViewController.h; sourceTree = "<group>"; };
-		B19561FD160EFC9A00E30E55 /* EzSampleFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EzSampleFirstViewController.m; sourceTree = "<group>"; };
-		B19561FF160EFC9A00E30E55 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
-		B1956201160EFC9A00E30E55 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		B1956203160EFC9A00E30E55 /* EzSampleSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EzSampleSecondViewController.h; sourceTree = "<group>"; };
-		B1956204160EFC9A00E30E55 /* EzSampleSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EzSampleSecondViewController.m; sourceTree = "<group>"; };
-		B1956206160EFC9A00E30E55 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
-		B1956208160EFC9A00E30E55 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +62,7 @@
 		B19561DE160EFC9900E30E55 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B19561DD160EFC9900E30E55 /* CannotPushButtonByIPhone5.app */,
+				B19561DD160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -97,14 +83,6 @@
 				B19561F0160EFC9A00E30E55 /* EzSampleAppDelegate.h */,
 				B19561F1160EFC9A00E30E55 /* EzSampleAppDelegate.m */,
 				B19561F9160EFC9A00E30E55 /* MainStoryboard.storyboard */,
-				B19561FC160EFC9A00E30E55 /* EzSampleFirstViewController.h */,
-				B19561FD160EFC9A00E30E55 /* EzSampleFirstViewController.m */,
-				B19561FF160EFC9A00E30E55 /* first.png */,
-				B1956201160EFC9A00E30E55 /* first@2x.png */,
-				B1956203160EFC9A00E30E55 /* EzSampleSecondViewController.h */,
-				B1956204160EFC9A00E30E55 /* EzSampleSecondViewController.m */,
-				B1956206160EFC9A00E30E55 /* second.png */,
-				B1956208160EFC9A00E30E55 /* second@2x.png */,
 				B19561E8160EFC9900E30E55 /* Supporting Files */,
 			);
 			path = CannotPushButtonByIPhone5;
@@ -113,10 +91,10 @@
 		B19561E8160EFC9900E30E55 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B19561E9160EFC9900E30E55 /* CannotPushButtonByIPhone5-Info.plist */,
+				B19561E9160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5-Info.plist */,
 				B19561EA160EFC9900E30E55 /* InfoPlist.strings */,
 				B19561ED160EFC9900E30E55 /* main.m */,
-				B19561EF160EFC9900E30E55 /* CannotPushButtonByIPhone5-Prefix.pch */,
+				B19561EF160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5-Prefix.pch */,
 				B19561F3160EFC9A00E30E55 /* Default.png */,
 				B19561F5160EFC9A00E30E55 /* Default@2x.png */,
 				B19561F7160EFC9A00E30E55 /* Default-568h@2x.png */,
@@ -127,9 +105,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B19561DC160EFC9900E30E55 /* CannotPushButtonByIPhone5 */ = {
+		B19561DC160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B195620C160EFC9A00E30E55 /* Build configuration list for PBXNativeTarget "CannotPushButtonByIPhone5" */;
+			buildConfigurationList = B195620C160EFC9A00E30E55 /* Build configuration list for PBXNativeTarget "EzSample_iPhone5_CannotPushButtonByIPhone5" */;
 			buildPhases = (
 				B19561D9160EFC9900E30E55 /* Sources */,
 				B19561DA160EFC9900E30E55 /* Frameworks */,
@@ -139,9 +117,9 @@
 			);
 			dependencies = (
 			);
-			name = CannotPushButtonByIPhone5;
+			name = EzSample_iPhone5_CannotPushButtonByIPhone5;
 			productName = CannotPushButtonByIPhone5;
-			productReference = B19561DD160EFC9900E30E55 /* CannotPushButtonByIPhone5.app */;
+			productReference = B19561DD160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -154,7 +132,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Tomohiro Kumagai";
 			};
-			buildConfigurationList = B19561D7160EFC9900E30E55 /* Build configuration list for PBXProject "CannotPushButtonByIPhone5" */;
+			buildConfigurationList = B19561D7160EFC9900E30E55 /* Build configuration list for PBXProject "EzSample_iPhone5_CannotPushButtonByIPhone5" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -166,7 +144,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B19561DC160EFC9900E30E55 /* CannotPushButtonByIPhone5 */,
+				B19561DC160EFC9900E30E55 /* EzSample_iPhone5_CannotPushButtonByIPhone5 */,
 			);
 		};
 /* End PBXProject section */
@@ -181,10 +159,6 @@
 				B19561F6160EFC9A00E30E55 /* Default@2x.png in Resources */,
 				B19561F8160EFC9A00E30E55 /* Default-568h@2x.png in Resources */,
 				B19561FB160EFC9A00E30E55 /* MainStoryboard.storyboard in Resources */,
-				B1956200160EFC9A00E30E55 /* first.png in Resources */,
-				B1956202160EFC9A00E30E55 /* first@2x.png in Resources */,
-				B1956207160EFC9A00E30E55 /* second.png in Resources */,
-				B1956209160EFC9A00E30E55 /* second@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,8 +171,6 @@
 			files = (
 				B19561EE160EFC9900E30E55 /* main.m in Sources */,
 				B19561F2160EFC9A00E30E55 /* EzSampleAppDelegate.m in Sources */,
-				B19561FE160EFC9A00E30E55 /* EzSampleFirstViewController.m in Sources */,
-				B1956205160EFC9A00E30E55 /* EzSampleSecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,9 +249,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CannotPushButtonByIPhone5/CannotPushButtonByIPhone5-Prefix.pch";
-				INFOPLIST_FILE = "CannotPushButtonByIPhone5/CannotPushButtonByIPhone5-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CannotPushButtonByIPhone5/EzSample_iPhone5_CannotPushButtonByIPhone5-Prefix.pch";
+				INFOPLIST_FILE = "CannotPushButtonByIPhone5/EzSample_iPhone5_CannotPushButtonByIPhone5-Info.plist";
+				PRODUCT_NAME = EzSample_iPhone5_CannotPushButtonByIPhone5;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -288,9 +260,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CannotPushButtonByIPhone5/CannotPushButtonByIPhone5-Prefix.pch";
-				INFOPLIST_FILE = "CannotPushButtonByIPhone5/CannotPushButtonByIPhone5-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CannotPushButtonByIPhone5/EzSample_iPhone5_CannotPushButtonByIPhone5-Prefix.pch";
+				INFOPLIST_FILE = "CannotPushButtonByIPhone5/EzSample_iPhone5_CannotPushButtonByIPhone5-Info.plist";
+				PRODUCT_NAME = EzSample_iPhone5_CannotPushButtonByIPhone5;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -298,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B19561D7160EFC9900E30E55 /* Build configuration list for PBXProject "CannotPushButtonByIPhone5" */ = {
+		B19561D7160EFC9900E30E55 /* Build configuration list for PBXProject "EzSample_iPhone5_CannotPushButtonByIPhone5" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B195620A160EFC9A00E30E55 /* Debug */,
@@ -307,13 +279,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B195620C160EFC9A00E30E55 /* Build configuration list for PBXNativeTarget "CannotPushButtonByIPhone5" */ = {
+		B195620C160EFC9A00E30E55 /* Build configuration list for PBXNativeTarget "EzSample_iPhone5_CannotPushButtonByIPhone5" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B195620D160EFC9A00E30E55 /* Debug */,
 				B195620E160EFC9A00E30E55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
